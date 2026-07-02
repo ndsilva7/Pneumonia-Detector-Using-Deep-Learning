@@ -8,16 +8,9 @@ Link: https://teachablemachine.withgoogle.com/train
 <img width="608" height="411" alt="Captura de tela de 2026-06-28 17-50-09" src="https://github.com/user-attachments/assets/7d5388f0-4f16-4e09-8dcd-ac54eea3ea60" />
 
 
-
-
-
 As imagens, foram 5.863 que no total deu 2,3 GB, foram retiradas do site Kaggle//Cell Journal e todas as imagens foram publicadas nesta mesma revista científica peer-reviewed(revisão por pares) – O paper original é o Kermany et al., 2018, publicado na revista Cell. O trabalho foi conduzido com aprovação do Comitê de Ética (IRB), em conformidade com a HIPAA e com a Declaração de Helsinki, que são os padrões internacionais de ética em pesquisa médica.
 
 Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
-
-
-
-
 
 
 
@@ -30,9 +23,6 @@ Link: https://teachablemachine.withgoogle.com/train
 A total of 5,863 images, amounting to 2.3 GB, were obtained from the Kaggle//Cell Journal website, and all images were published in this same peer-reviewed scientific journal—the original paper is Kermany et al., 2018, published in the journal Cell. The study was conducted with approval from the Institutional Review Board (IRB), in accordance with HIPAA and the Declaration of Helsinki, which are the international standards for ethics in medical research.
 
 Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
-
-
-
 
 
 
@@ -49,17 +39,10 @@ Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
 
-
-
-
-
-
-
 **Final Design:**
 
 
 <img width="1853" height="940" alt="Captura de tela de 2026-07-02 14-11-00" src="https://github.com/user-attachments/assets/a009bf5d-5e55-497d-9ece-c81fe34ec48e" />
-
 
 
 **Requiments:**
