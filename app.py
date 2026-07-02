@@ -6,7 +6,7 @@ from PIL import Image
 
 st.set_page_config(page_title="Pneumonia Classifier", page_icon="🫁")
 
-# CSS para aumentar as letras
+
 st.markdown("""
 <style>
     p, div, label { font-size: 20px !important; }
@@ -17,9 +17,9 @@ st.markdown("<h1 style='font-size: 48px'>🫁 Pneumonia Classifier</h1>", unsafe
 
 @st.cache_resource
 def load():
-    model = load_model("keras_model.h5", compile=False)  # ← 4 espaços
-    return model                                          # ← 4 espaços
-
+    model = load_model("keras_model.h5", compile=False)  
+    return model                                          
+    
 model = load()
 class_names = ['Pneumonia', 'Normal']
 
@@ -34,8 +34,8 @@ st.markdown("<p style='font-size: 24px !important; margin-bottom: 0px;'>🩻 Sen
 uploaded = st.file_uploader("", type=["jpg","jpeg","png"])
 
 if uploaded is not None:
-    pil_image = Image.open(uploaded).convert("RGB")  # ← 4 espaços
-    st.image(pil_image, caption="Image uploaded")    # ← 4 espaços
+    pil_image = Image.open(uploaded).convert("RGB")  
+    st.image(pil_image, caption="Image uploaded")   
 
     img = np.array(pil_image)
     image = cv2.resize(img, (224, 224), interpolation=cv2.INTER_AREA)
