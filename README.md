@@ -16,7 +16,7 @@ Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
 
-**English version:**
+**ENGLISH VERSION:**
 
 This project is an image classification model for identifying pneumonia using deep learning, TensorFlow Keras, and Google's Teachable Machine. 
 
@@ -29,7 +29,7 @@ Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
 
-**Machine Learning Data:**
+**MACHINE LEARNING DATA:**
 
 
 <img width="369" height="450" alt="Captura de tela de 2026-06-28 17-56-05 (Editado)" src="https://github.com/user-attachments/assets/c9b66865-2249-4b48-a033-fbe82c38fe80" />
@@ -43,13 +43,13 @@ Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
 
-**Final Design:**
+**FINAL DESIGN:**
 
 
 <img width="1853" height="940" alt="Captura de tela de 2026-07-02 14-11-00" src="https://github.com/user-attachments/assets/a009bf5d-5e55-497d-9ece-c81fe34ec48e" />
 
 
-**Requiments:**
+**REQUIMENTS:**
 - Cvzone = 1.5.6
 - Keras = 2.12.0
 - Opencv-python = 4.5.4.60
