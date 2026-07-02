@@ -19,6 +19,8 @@ A total of 5,863 images, amounting to 2.3 GB, were obtained from the Kaggle//Cel
 Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 Machine Learning Data:
+
+
 <img width="369" height="450" alt="Captura de tela de 2026-06-28 17-56-05 (Editado)" src="https://github.com/user-attachments/assets/c9b66865-2249-4b48-a033-fbe82c38fe80" />
 
 
@@ -26,6 +28,9 @@ Machine Learning Data:
 
 
 <img width="366" height="294" alt="Captura de tela de 2026-06-28 17-56-26 (Editado)" src="https://github.com/user-attachments/assets/a59f4120-4f2b-4b8b-9f83-e20e71d31359" />
+
+
+
 
 Final Design:
 
@@ -38,7 +43,7 @@ Requiments:
 - Cvzone = 1.5.6
 - Keras = 2.12.0
 - Opencv-python = 4.5.4.60
-- Tensorflow = 2.12.8<img width="608" height="411" alt="Captura de tela de 2026-06-28 17-50-09" src="https://github.com/user-attachments/assets/c0602ed4-2ee9-4a0e-8255-7577e987b656" />
+- Tensorflow = 2.12.8
 
 
 
