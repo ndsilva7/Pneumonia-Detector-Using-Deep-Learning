@@ -1,6 +1,7 @@
 # Pneumonia-Detector-Using-Deep-Learning
 
 Esse projeto é um modelo de classificação de imagens para identificação de pneumonia usando Deep Learning, o TensorFlow Keras, Teachable Machine da Google. 
+
 Link: https://teachablemachine.withgoogle.com/train 
 
 
@@ -12,7 +13,7 @@ As imagens, foram 5.863 que no total deu 2,3 GB, foram retiradas do site Kaggle/
 Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
-##**English version:**
+**English version:**
 
 This project is an image classification model for identifying pneumonia using deep learning, TensorFlow Keras, and Google's Teachable Machine. 
 
@@ -23,7 +24,7 @@ A total of 5,863 images, amounting to 2.3 GB, were obtained from the Kaggle//Cel
 Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
-##**Machine Learning Data:**
+**Machine Learning Data:**
 
 
 <img width="369" height="450" alt="Captura de tela de 2026-06-28 17-56-05 (Editado)" src="https://github.com/user-attachments/assets/c9b66865-2249-4b48-a033-fbe82c38fe80" />
@@ -41,14 +42,14 @@ Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
 
-##**Final Design:**
+**Final Design:**
 
 
 <img width="1853" height="940" alt="Captura de tela de 2026-07-02 14-11-00" src="https://github.com/user-attachments/assets/a009bf5d-5e55-497d-9ece-c81fe34ec48e" />
 
 
 
-##**Requiments:**
+**Requiments:**
 - Cvzone = 1.5.6
 - Keras = 2.12.0
 - Opencv-python = 4.5.4.60
